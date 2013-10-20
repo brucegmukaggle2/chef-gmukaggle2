@@ -10,3 +10,6 @@ MySQL
 R
 R Studio
 RMySQL connector
+
+________________
+@author Bruce Goldfeder
